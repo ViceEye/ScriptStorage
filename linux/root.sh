@@ -7,6 +7,3 @@ sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_
 service sshd restart
 
 echo '成功开启root登录'
-
-echo '开始安装X-UI'
-bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
