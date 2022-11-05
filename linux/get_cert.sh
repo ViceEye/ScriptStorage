@@ -1,7 +1,8 @@
 #!/bin/bash
 
 apt update -y
-apt intall -y curl socat
+apt install -y curl 
+apt install -y socat
 
 curl https://get.acme.sh | sh
 
