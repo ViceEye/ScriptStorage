@@ -11,6 +11,8 @@ Free file storage for self uses. Lol
 
 * bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
+* bash <(curl -Ls https://raw.githubusercontent.com/ViceEye/MyGithubStorage/main/linux/get_cert.sh)
+
 # SwitchyOmega
 * wget https://raw.githubusercontent.com/ViceEye/MyGithubStorage/main/2.5.21_0.zip
 
