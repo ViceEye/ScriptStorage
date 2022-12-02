@@ -16,4 +16,4 @@ read domainName
 
 ~/.acme.sh/acme.sh --issue -d ${domainName} --standalone
 
-~/.acme.sh/acme.sh --installcert -d ${domainName} --key-file /root/private.key --fullchain-file /root/cert.cert
+~/.acme.sh/acme.sh --installcert -d ${domainName} --key-file /root/private.key --fullchain-file /root/cert.crt
