@@ -4,8 +4,8 @@ apt install unzip -y
 apt install screen -y
 
 wget https://raw.githubusercontent.com/ViceEye/MyGithubStorage/main/forward-server.linux64.v1.3.5.zip
-unzip forward-server.linux64.v1.3.5.zip -d port-forward
+unzip forward-server.linux64.v1.3.5.zip
 
-chmod +x -R port-forward
+chmod +x -R forward-server.linux64.v1.3.5
 
 screen -S forward
